@@ -4,6 +4,8 @@ body {
 margin: 0px;
 }
 header{
-    border-bottom:solid 2px red
-    font-size: 32px
+    border-bottom: solid 2px red
+    font-size: 32px;
+    padding: 20px;
+    color: (42, 122 ,228)
 }
